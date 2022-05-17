@@ -4,7 +4,7 @@ Hi 👋 My name is Suryo Hastomo
 WebDeveloper - UI/UX - Fullstack
 -----------------------------
 
-i've been learning to code for 5 year. I loved Design with Figma for my other job as freelance designer. I started my career as frontend with ReactJs and Nextjs. Now I'm in learning nodejs with nestjs framework for fullstack.
+i've been learning to code for 2 year. I loved Design with Figma for my other job as freelance designer. I started my career as frontend with ReactJs and Nextjs. Now I'm in learning nodejs with nestjs framework for fullstack.
 
 * 🌍  I'm based in indonesia, Banten, South Tangerang
 * ✉️  You can contact me at [ryohastomo@gmail.com](mailto:ryohastomo@gmail.com)
