@@ -3,8 +3,7 @@ Hi 👋 My name is Suryo Hastomo
 
 WebDeveloper - UI/UX - Fullstack
 -----------------------------
-
-i've been learning to code for 2 year. I started my career as frontend with ReactJs and Nextjs. Now I'm as Backend Developer with nodejs and nestjs framework.
+I started my career as frontend with ReactJs and Nextjs. Now I'm as Backend Developer with nodejs - nestjs framework and Go.
 
 * 🌍  I'm based in indonesia, Banten, South Tangerang
 * ✉️  You can contact me at [ryohastomo@gmail.com](mailto:ryohastomo@gmail.com)
