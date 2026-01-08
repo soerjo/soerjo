@@ -1,14 +1,13 @@
 Hi 👋 My name is Suryo Hastomo
 ==============================
 
-WebDeveloper - UI/UX - Fullstack
+Software Developer
 -----------------------------
-I started my career as frontend with ReactJs and Nextjs. Now I'm as Backend Developer with nodejs - nestjs framework and Go.
+I started my career as a frontend developer with ReactJS and NextJS. Now I'm a Backend Developer with NodeJS - NestJS framework and Java with Spring.
 
-* 🌍  I'm based in indonesia, Banten, South Tangerang
+* 🌍  I'm based in Indonesia, Banten, South Tangerang
 * ✉️  You can contact me at [ryohastomo@gmail.com](mailto:ryohastomo@gmail.com)
-* 🧠  I'm in learning Java Spring and Go
-* 🤝  I'm open to collaborating on react web, nestjs backend and react-native project
+* 🧠  I'm learning Java Spring
 
 ### Skills
 
@@ -26,9 +25,6 @@ I started my career as frontend with ReactJs and Nextjs. Now I'm as Backend Deve
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
 
 ### Socials
 
