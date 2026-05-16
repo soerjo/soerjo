@@ -30,4 +30,4 @@ I am a Software Engineer with experience building scalable, high-availability sy
 ---
 
 ### 🤝 Connect with Me
-[Website Portfolio](https://profile.soerjoprod.fun/) | [LinkedIn](https://www.linkedin.com/in/suryohastomo) | [GitHub](https://github.com/ryohastomo)
+[Website Portfolio](https://profile.soerjoprod.fun/) | [LinkedIn](https://www.linkedin.com/in/suryo-hastomo-786110166/) | [GitHub](https://github.com/ryohastomo) | [Youtube](https://www.youtube.com/@SoerjoTomo)
